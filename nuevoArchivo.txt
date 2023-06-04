@@ -1,1 +1,3 @@
 creando un nuevo archivo de texto para probar git revert y git reset
+
+git reset funciono correstamente, a ver con git revert
