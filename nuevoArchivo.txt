@@ -1,2 +1,1 @@
 creando un nuevo archivo para probar git revert
-ups, ocurrio un error en el codigo y dejo de funcionar la cosa
